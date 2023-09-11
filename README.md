@@ -24,7 +24,7 @@
 
 ![image-20230911140501327](img/image-20230911140501327.png)
 
-
+![API_structure.png](img/API_structure.png)
 
 ### 前后处理模块
 
