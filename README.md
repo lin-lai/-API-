@@ -42,14 +42,14 @@
 
 
 
-#### 版本2：python并发API+oss推流服务器
+#### 版本2：python推流并发服务器
 
-1. torchserve并发服务器
+1. 前台：tornado并发服务器
 
-2. 分块MP4
-3. 异步并发 发送API请求，处理json
+2. 分块MP4---协程
+3. 异步并发 发送API请求，处理json----asyncio
 
-3. oss推流——阿里云oss服务
+4. oss推流——阿里云oss服务
 
 
 
