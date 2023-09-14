@@ -29,7 +29,7 @@ https://www.bilibili.com/video/BV13u4y1C7ZT/
 
 
 <video width="320" height="240" controls>
-  <source src="img/final.mp4" type="video/mp4">
+  <source src="img/output_oss_30s.mp4" type="video/mp4">
 </video>
 
 ## 项目架构
