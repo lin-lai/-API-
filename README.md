@@ -36,9 +36,15 @@ https://www.bilibili.com/video/BV13u4y1C7ZT/
 
 ### 总结构
 
+#### c++版
+开源和演示都是c++版
+![API_structure.png](img/API_structure.png)
+
+#### python版
+
 ![image-20230911140501327](img/image-20230911140501327.png)
 
-![API_structure.png](img/API_structure.png)
+
 
 ### 前后处理模块
 
